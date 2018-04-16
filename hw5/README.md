@@ -1,3 +1,1 @@
-# CS1331-Java-Programming
-# CS1331-Java-Programming
-# CS1331-Java-Programming
+Revamp a system for managing athletes for a team.
