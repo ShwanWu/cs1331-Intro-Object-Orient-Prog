@@ -1,3 +1,1 @@
-# CS1331-Java-Programming
-# CS1331-Java-Programming
-# CS1331-Java-Programming
+Creating a database that can store text messages and filter those messages based on certain constraints.
