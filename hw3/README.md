@@ -1,3 +1,1 @@
-# CS1331-Java-Programming
-# CS1331-Java-Programming
-# CS1331-Java-Programming
+This is a BuzzCard classes that implements the point of sales systems for the three restaurant.
