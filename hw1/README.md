@@ -1,4 +1,5 @@
 This is a word guess game:
+
 Game Play Rules
 As long as the player has made fewer than five misses and has not guessed all the letters in the word:
 1. Print a line reporting the current missed letters and the number of remaining misses before the player loses.
